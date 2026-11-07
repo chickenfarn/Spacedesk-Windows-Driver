@@ -181,4 +181,4 @@ This repository serves as the official landing page for spacedesk Windows DRIVER
 **Get the most recent version of spacedesk Windows DRIVER today!**
 
 ---
-**Last updated:** 2026-11-07 16:14:18 UTC
+**Last updated:** 2026-11-07 20:44:41 UTC
